@@ -10,7 +10,7 @@ from crud_functions import *
 
 
 
-APM="7298843250:AAFZroeEQRik_v3q9jzE5lDgT6KPpL5js0I"
+APM="7298843250:AAFZroeEQRik_v3q9I"
 bot=Bot(token=APM)
 dp=Dispatcher(bot,storage= MemoryStorage())
 
